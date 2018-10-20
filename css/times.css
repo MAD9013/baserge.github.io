@@ -135,7 +135,7 @@ h1.story-title{
 }
 .story blockquote::after{
     content: close-quote;
-     font-family:Georgia, serif;
+     font-family:Georgia, "Lucida Serif";
 }
 .story p.byline{
     font-weight: bold;
