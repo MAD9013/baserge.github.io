@@ -44,7 +44,7 @@ text-decoration: none;
    text-decoration: none;
 }
 .mainnav{
-   overflow: left;
+   overflow: auto;
     background-color: #333;
 }
 .mainnav a{
