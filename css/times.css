@@ -193,6 +193,7 @@ p.byline span.pub{
     .subvan a,
     .masthead h1,
     .story img,
+    .story p
     .content .story,
     .footer {
        display:block;
