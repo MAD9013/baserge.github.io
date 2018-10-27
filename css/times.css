@@ -155,7 +155,7 @@ p.byline span.pub{
 }
 .foot p{
     text-align: center; 
-    color:black;
+    color:red;
     position: fixed;
     margin-top: 1px;
     left: 0;
